@@ -1,15 +1,14 @@
 <!--
-  * browser: sixarm-project-management-priority-score
+  * browser: project-management-severity-score
   * tracker: 092d1327cfe84e10c488b6e83c24f9f2
-  * version: 2.0.0
-  * updated: 2019-01-09T23:49:26Z
+  * version: 3.0.0
+  * updated: 2022-07-30T23:21:13Z
+  * license: GPL-2.0-or-later or contact us for custom
   * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
   * options: commentable
 -->
 
-# SixArm.com → Project management → <br> Severity score
-
-<img src="README.png" alt="Severity" style="width: 100%;"/>
+# Project management severity score
 
 Severity score is a simple way to rank items, such as goals, tasks, issues, etc. This page explains the task severity score that our teams use.
 
